@@ -1,0 +1,26 @@
+{
+  "name": "http-api-assignment-ii",
+  "version": "1.0.0",
+  "description": "Cody Homework",
+  "main": "/c/Users/Carly/Documents/590-Cody/http-api-assignment-ii/src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxk7197/http-api-assignment-ii.git"
+  },
+  "author": "Carly Kraft",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cxk7197/http-api-assignment-ii/issues"
+  },
+  "homepage": "https://github.com/cxk7197/http-api-assignment-ii#readme",
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
